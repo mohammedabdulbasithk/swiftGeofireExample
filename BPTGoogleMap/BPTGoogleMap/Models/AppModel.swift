@@ -21,7 +21,7 @@ class theAppModel{
 //    let firtsvc = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(withIdentifier: "firstvc") as? FirstVC
     
     let appurl = AppUrl()
-    let GOOGLE_MAP_APIKEY = "AIzaSyAGD9tY7g31-EQwRVAx03_w-cQP5IfK78g"
+    let GOOGLE_MAP_APIKEY = ""
     var neatbySalones : [String]?
     var neatbySalonesLocations : [CLLocation]?
     
